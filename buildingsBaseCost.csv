@@ -1,0 +1,19 @@
+Building,Level,Metal,Crystal,Deuterium,Energy,Time,Points
+metal mine,1,60,15,0,0,30s,0
+crystal mine,1,48,24,0,0,29s,0
+deuterium synthesizer,1,225,75,0,0,2m 3s,0
+solar plant,1,75,30,0,0,43s,0
+fusion reactor,1,900,360,180,0,8m 38s,1
+robotics factory,1,400,120,200,0,3m 33s,1
+nanite factory,1,1000000,500,100,0,3w 4d,1.6
+shipyard,1,400,200,100,0,4m 6s,1
+metal storage,1,1000,0,0,0,6m 51s,1
+crystal storage,1,1000,500,0,0,10m 17s,2
+deuterium tank,1,1000,1000,0,0,13m 42s,2
+shielded metal den,1,2645,0,0,0,18m 8s,3
+underground crystal den,1,2645,1322,0,0,27m 12s,4
+seabed deuterium den,1,2645,2645,0,0,36m 16s,5
+research lab,1,200,400,200,0,4m 6s,1
+terraformer,1,0,50,100,1,5h 42m 51s,150
+alliance depot,1,20,40,0,0,6h 51m 25s,60
+missile silo,1,20,20,1,0,4h 34m 17s,41
